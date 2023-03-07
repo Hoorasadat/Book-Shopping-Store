@@ -1,0 +1,15 @@
+/Users/hoora/Desktop/zeroTomastery/c#/Book-Shopping-Store/bin/Debug/net7.0/Book-Shopping-Store
+/Users/hoora/Desktop/zeroTomastery/c#/Book-Shopping-Store/bin/Debug/net7.0/Book-Shopping-Store.deps.json
+/Users/hoora/Desktop/zeroTomastery/c#/Book-Shopping-Store/bin/Debug/net7.0/Book-Shopping-Store.runtimeconfig.json
+/Users/hoora/Desktop/zeroTomastery/c#/Book-Shopping-Store/bin/Debug/net7.0/Book-Shopping-Store.dll
+/Users/hoora/Desktop/zeroTomastery/c#/Book-Shopping-Store/bin/Debug/net7.0/Book-Shopping-Store.pdb
+/Users/hoora/Desktop/zeroTomastery/c#/Book-Shopping-Store/obj/Debug/net7.0/Book-Shopping-Store.csproj.AssemblyReference.cache
+/Users/hoora/Desktop/zeroTomastery/c#/Book-Shopping-Store/obj/Debug/net7.0/Book-Shopping-Store.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoora/Desktop/zeroTomastery/c#/Book-Shopping-Store/obj/Debug/net7.0/Book-Shopping-Store.AssemblyInfoInputs.cache
+/Users/hoora/Desktop/zeroTomastery/c#/Book-Shopping-Store/obj/Debug/net7.0/Book-Shopping-Store.AssemblyInfo.cs
+/Users/hoora/Desktop/zeroTomastery/c#/Book-Shopping-Store/obj/Debug/net7.0/Book-Shopping-Store.csproj.CoreCompileInputs.cache
+/Users/hoora/Desktop/zeroTomastery/c#/Book-Shopping-Store/obj/Debug/net7.0/Book-Shopping-Store.dll
+/Users/hoora/Desktop/zeroTomastery/c#/Book-Shopping-Store/obj/Debug/net7.0/refint/Book-Shopping-Store.dll
+/Users/hoora/Desktop/zeroTomastery/c#/Book-Shopping-Store/obj/Debug/net7.0/Book-Shopping-Store.pdb
+/Users/hoora/Desktop/zeroTomastery/c#/Book-Shopping-Store/obj/Debug/net7.0/Book-Shopping-Store.genruntimeconfig.cache
+/Users/hoora/Desktop/zeroTomastery/c#/Book-Shopping-Store/obj/Debug/net7.0/ref/Book-Shopping-Store.dll
